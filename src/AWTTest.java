@@ -15,7 +15,7 @@ public class AWTTest {
                     }
                 }
         );*/
-Fenster myFenster = new Fenster();
-
+//Fenster myFenster = new Fenster();
+GrafikFenster myFenster = new GrafikFenster("meinFenster", 300, 400);
     }
 }
